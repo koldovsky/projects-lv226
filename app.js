@@ -201,7 +201,7 @@ app.service('studentService', ['$q', function ($q) {
             "websiteUrl": "https://ivta.github.io/sto/index.html",
             "codeSourceUrl": "https://github.com/IvTa/sto",
             "cvUrl": "",
-            "photo": "images/students/no-photo.gif"
+            "photo": "images/students/ivanyshyn.jpg"
         },
         {
             "name": "Viktoriia Voloshyna",
