@@ -86,7 +86,7 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Illia Kuzma",
-            "websiteUrl": "https://github.com/illia108/monkey https://github.com/illia108/resume https://github.com/illia108/js_snake",
+            "websiteUrl": "https://github.com/illia108/monkey",
             "codeSourceUrl": "https://github.com/illia108/monkey",
             "cvUrl": "https://illia108.github.io/resume/",
             "photo": "images/students/kuzma.jpg"
@@ -166,7 +166,7 @@ app.service('studentService', ['$q', function ($q) {
             "websiteUrl": "https://annaloz.github.io/html4/",
             "codeSourceUrl": "https://github.com/AnnaLoz/html4",
             "cvUrl": "",
-            "photo": "images/students/no-photo.gif"
+            "photo": "images/students/lozynska.jpg"
         },
         {
             "name": "Volodymyr Khvesyk",
@@ -236,14 +236,14 @@ app.service('studentService', ['$q', function ($q) {
             "websiteUrl": "https://marheva.github.io/project__finaly_softserve/",
             "codeSourceUrl": "https://github.com/marheva/project__finaly_softserve",
             "cvUrl": "",
-            "photo": "images/students/no-photo.gif"
+            "photo": "images/students/markhevka.jpg"
         },
         {
             "name": "Marian Ben",
             "websiteUrl": "https://marianben.github.io/mysite/",
             "codeSourceUrl": "https://github.com/marianben/mysite",
             "cvUrl": "",
-            "photo": "images/students/no-photo.gif"
+            "photo": "images/students/ben.jpg"
         }
     ];
 
